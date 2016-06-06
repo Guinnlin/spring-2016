@@ -1,7 +1,7 @@
 ---
-title: "RSCH 630 - Research Methods"
-subtitle: 'Final Exam'
-author: "Your Name"
+title: "RSCH 630 - Research Methods Guinn"
+subtitle: 'Final Exam, YIPPIEE'
+author: "Victor L Guinn"
 date: "Due `r format(as.POSIXct(594000, origin = '2016-06-01'), '%R %x')`"
 bibliography: "resources/bibliography.bib"
 csl: "resources/ieee.csl"
@@ -113,7 +113,7 @@ If you're not `r mad` using Windows go to [https://git-scm.com/](https://git-scm
 
 # Working Example
 
-## Scraping data from Data.gov
+## Scraping data from Data.gov got some wierd errors when trying to scrape, not shure of the source, Error: could not find function "getPackage", even tried to install the packages that R sait it couldent find with no better results.
 
 ```{r}
 getPackage('httr',      repo = 'CRAN')
