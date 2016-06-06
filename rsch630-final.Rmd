@@ -1,6 +1,6 @@
 ---
 title: "RSCH 630 - Research Methods Guinn"
-subtitle: 'Final Exam, YIPPIEE'
+subtitle: 'Final Exam, YIPPIEE Schools out for summer!!!'
 author: "Victor L Guinn"
 date: "Due `r format(as.POSIXct(594000, origin = '2016-06-01'), '%R %x')`"
 bibliography: "resources/bibliography.bib"
